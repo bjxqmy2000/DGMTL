@@ -1,0 +1,101 @@
+ws_id,wsdl_address,ws_name,provider,country
+0,http://orange-cagnes.dyndns.org/axis/services/wSInvoker?wsdl,WSInvokerService,dyndns.org,France
+1,http://aquest.dyndns.org/CaptchaAudioWS/CaptchaAudio.asmx?WSDL,CaptchaAudio,dyndns.org,Japan
+2,http://dinoch.dyndns.org:7070/axis1.2/services/EchoService?wsdl,Echo,dyndns.org,United States
+3,http://www.smsglobal.com.au/mobileworks/soapserver.php?wsdl,MobileWorks,smsglobal.com.au,Australia
+4,http://agiv.be/gis/localService.asmx?WSDL,localService,agiv.be,Belgium
+5,http://biomoby.org/services/wsdl/ualberta.ca/BacMapGetSpeciesCard,BacMapGetSpeciesCard,ualberta.ca,Canada
+6,http://biomoby.org/services/wsdl/ualberta.ca/BacMapGetGeneCard,BacMapGetGeneCardSer,ualberta.ca,Canada
+7,http://biomoby.org/services/wsdl/ualberta.ca/getColiCardIDs_by_Cofactor,getColiCardIDs_by_Co.,ualberta.ca,Canada
+8,http://biomoby.org/services/wsdl/ualberta.ca/getColiCardIDsByKeyword,getColiCardIDsByKeyword,ualberta.ca,Canada
+9,http://biomoby.org/services/wsdl/ualberta.ca/BacMapGetChromosomeSequence,BacMapGetChromosomeS...,ualberta.ca,Canada
+10,http://biomoby.org/services/wsdl/ualberta.ca/getColiCardIDs_by_blattner_number,getColiCardIDs_by_bl...,ualberta.ca,Canada
+11,http://www.byjg.com.br/xmlnuke-php/webservice.php/xmlnuke/samples/samplewebservice?WSDL,SampleWebservice,byjg.com.br,Canada
+12,http://biomoby.org/services/wsdl/bar.utoronto.ca/getAGI_SubCellLocalisationImage,getAGI_SubCellLocal,utoronto.ca,Canada
+13,http://www.comriesoftware.net/cshitcounter/hitcounter.asmx?WSDL,HitCounter,comriesoftware.net,Canada
+14,http://ghettodriveby.com/soap/?wsdl,RandomGoogleSearchService,ghettodriveby.com,Canada
+15,http://fucai.qd.sd.cn/Lottery/WebService/MultiBuyService.asmx?WSDL,MultiBuyService,qd.sd.cn,China
+16,http://system.fjjs.gov.cn/signonwebservice2005/JSService.asmx?wsdl,JSService,fjjs.gov.cn,China
+17,http://www.smartclub.com.cn/webservice/online.asmx?WSDL,online,smartclub.com.cn,China
+18,http://www.uestc.edu.cn/web3/NewsCenterService.asmx?WSDL,NewsCenterService,uestc.edu.cn,China
+19,http://sms.18gw.com/SmsWebService.asmx?WSDL,SmsWebService,18gw.com,China
+20,http://59.60.148.150/bpservice/bpservice.asmx?WSDL,BpService,59.60.148.150,China
+21,http://www.boolu.com/CMSInterFace/CMSSendMsg.asmx?WSDL,CMSSendMsg,boolu.com,China
+22,http://yishan.cc/QueryAutoComplete.asmx?WSDL,QueryAutoComplete,yishan.cc,China
+23,http://dinoch.dyndns.org:7070/axis1.2/services/EchoServicePort?wsdl,EchoService,dyndns.org,United States
+24,http://biomoby.org/services/wsdl/lipm-bioinfo.toulouse.inra.fr/MsfToPhylip,MsfToPhylipService,inra.fr,France
+25,http://biomoby.org/services/wsdl/iant.toulouse.inra.fr/Cap3FromXml,Cap3FromXmlService,inra.fr,France
+26,http://biomoby.org/services/wsdl/iant.toulouse.inra.fr/iANTBlast,iANTBlastService,inra.fr,France
+27,http://biomoby.org/services/wsdl/www.heliagene.org/HeliageneGetSequence,HeliageneGetSequence...,heliagene.org,France
+28,http://stats.oecd.org/OECDStatWS_Authentication/OECDStatWS_Authentication.asmx?WSDL,OECD.Stat_x0020_Data...,oecd.org,France
+29,http://biomoby.org/services/wsdl/mpiz-koeln.mpg.de/get_other_database_accessions_by_database_accession,get_other_database_a...,mpg.de,Germany
+30,http://biomoby.org/services/wsdl/mpiz-koeln.mpg.de/EBI_InterproScan,EBI_InterproScanServ...,mpg.de,Germany
+31,http://dinoch.dyndns.org:7070/axis1.2/services/EchoService?wsdl,Echo,dyndns.org,United States
+32,http://mobilenavigation.siemensvdo.com/mnp/services/Version?wsdl,VersionService,siemensvdo.com,Germany
+33,http://www.rewisit.de:8080/axis/RewisitAdd.jws?wsdl,RewisitAddService,rewisit.de,Germany
+34,http://biomoby.org/services/wsdl/ipb-halle.de/MassBank_Query_PeakList,MassBank_Query_PeakL...,ipb-halle.de,Germany
+35,http://www.glycosciences.de/services/KeywordService?wsdl,KeywordQueryService,glycosciences.de,Germany
+36,http://guidgen.com/WS.asmx?WSDL,WS,guidgen.com,Germany
+37,http://www.greatvessel.com/PortalService.asmx?WSDL,PortalService,greatvessel.com,Ireland
+38,http://profiles.roshd.ir/security.asmx?WSDL,Security,roshd.ir,Islamic Republic of Iran
+39,http://www.e-voluzione.it/cup.asmx?wsdl,Service,e-voluzione.it,Italy
+40,http://webservices.imel.eu/MastercardAutenticazione.asmx?WSDL,MastercardAutenticaz...,imel.eu,Italy
+41,http://aida.science.uva.nl:8888/axis/SynsetServer.jws?wsdl,SynsetServerService,uva.nl,Netherlands
+42,http://aida.science.uva.nl:8888/axis/services/RepositoryWS?wsdl,RepositoryWSService,uva.nl,Netherlands
+43,http://webservicesls.socard.nl/services/mail.asmx?WSDL,Mail,socard.nl,Netherlands
+44,http://www.independer.com/thema/common/webservices/contentproviderservice.asmx?WSDL,ContentProviderServi...,independer.com,Netherlands
+45,http://pwlcentral.co.nz/onlineorder.asmx?WSDL,COnlineOrder,pwlcentral.co.nz,New Zealand
+46,http://www11.nrk.no/urort/_websvc/TagCompletionWebService.asmx?WSDL,TagCompletionWebServ...,nrk.no,Norway
+47,http://las.aei.polsl.pl/las2/las2.asmx?WSDL,Las2Service,polsl.pl,Poland
+48,http://streemo.pl/Portal/WebServices/SongService.asmx?WSDL,SongService,streemo.pl,Poland
+49,http://bb4.tivi.pl/WebServices/SendToFriendService.asmx?WSDL,SendToFriendService,tivi.pl,Poland
+50,http://www.adecco.co.kr/WebService/CheckID.asmx?WSDL,CheckID,adecco.co.kr,Republic of Korea
+51,http://webservice.direct.co.kr/directsms1.x/directsms.asmx?WSDL,DirectSms,direct.co.kr,Republic of Korea
+52,http://www.kobaco.co.kr:8182/DLiWeb20/Components/Portal/LibrarySchedule/wsLibSchedule.asmx?WSDL,wsLibSchedule,kobaco.co.kr,Republic of Korea
+53,http://services.telekom.yu/WSResearch/registration.asmx?WSDL,Research,services.telekom.yu,Serbia and Montenegro
+54,http://wsp.24.com/messenger/jabber.asmx?WSDL,Jabber,24.com,South Africa
+55,http://biomoby.org/services/wsdl/inb.bsc.es/runTcoffeeFromProfiles,runTcoffeeFromProfil...,bsc.es,Spain
+56,http://biomoby.org/services/wsdl/inb.bsc.es/runTcoffeeEvaluateAlignments,runTcoffeeEvaluateAl...,bsc.es,Spain
+57,http://biomoby.org/services/wsdl/mmb.pcb.ub.es/parseFeatureAASequenceFromFSOLVText,parseFeatureAASequen...,ub.es,Spain
+58,http://was.anuntis.com/wswas/alerts.asmx?wsdl,Alerts,anuntis.com,Spain
+59,http://www.metromadrid.es/redmetro/calculo/Calculo.asmx?WSDL,Calculo,metromadrid.es,Spain
+60,http://www.saniline.com/sespa/notifications.asmx?WSDL,Notifications,saniline.com,Spain
+61,http://www.local24.de/Services/AdUpsellingKeywords.asmx?WSDL,AdUpsellingKeywords,local24.de,Switzerland
+62,http://www.reconline.com/booknow/ws_asm.asmx?WSDL,ws_asm,reconline.com,Switzerland
+63,http://ws.acronyms.ch/search?WSDL,SearchServiceService,acronyms.ch,Switzerland
+64,http://wslogin.sanook.com/SMIProvisioning.asmx?WSDL,SMIProvisioning,sanook.com,Thailand
+65,http://89.238.134.82/MKServer/php/MKLicenceAdminWebService.php?wsdl,MKLicenceAdminWebSer,89.238.134.82,United Kingdom
+66,http://www.cms-store.eu/Site/AutoComplete.asmx?WSDL,AutoComplete,cms-store.eu,United Kingdom
+67,http://nofiasco.com/WS/wsModule.asmx?WSDL,wsModule,nofiasco.com,United Kingdom
+68,http://82.111.18.218/ReleaseNotes/WebService.asmx?WSDL,WebService,82.111.18.218,United Kingdom
+69,http://content.metropix.com/mtpix/propertyservices.asmx?wsdl,propertyservices,metropix.com,United Kingdom
+70,http://ppdev.vbi.vt.edu:6565/axis/services/sigcleave?wsdl,SigcleaveService,vt.edu,United States
+71,http://ppdev.bioinformatics.vt.edu:6565/axis/services/timelogicinterpro?wsdl,TimelogicinterproSer,vt.edu,United States
+72,http://www.webservicex.net/periodictable.asmx?wsdl,periodictable,webservicex.net,United States
+73,http://rguha.ath.cx:8080/pws/EchoHeaders.jws?wsdl,EchoHeadersService,ath.cx,United States
+74,http://mssoapinterop.org/asmx/wsdl/InteropTestDocLitParameters.wsdl,WSDLInteropTestDocLi,mssoapinterop.org,United States
+75,http://ws.xwebservices.com/XWebLead/XWebLead.asmx?wsdl,XWebLead,xwebservices.com,United States
+76,http://aspalliance.com/quickstart/aspplus/samples/services/MathService/VB/MathService.asmx?wsdl,MathService,aspalliance.com,United States
+77,http://aspalliance.com/quickstart/aspplus/samples/services/Intrinsics/VB/SessionService1.asmx?wsdl,SessionService1,aspalliance.com,United States
+78,http://skyservice.pha.jhu.edu/casjobs/CasGroups.asmx?WSDL,CasGroups,jhu.edu,United States
+79,http://oscar.snapps.com/projects/lotusphere/rws.nsf/FindRecipe?wsdl,RecipeService,snapps.com,United States
+80,http://www.capitolmuseum.ca.gov/WorkArea/webservices/EktronAsyncProcessorWS.asmx?WSDL,EktronAsyncProcessor...,ca.gov,United States
+81,http://www.deeptraining.com/webservices/mathservice.asmx?WSDL,Calculate,deeptraining.com,United States
+82,http://www.hydroseek.net/search/internalWebservices/AutoCompleteServiceHU.asmx?WSDL,AutoCompleteServiceH...,hydroseek.net,United States
+83,http://fullerdata.com/ASPBridge/bridge.asmx?wsdl,ASP_x0020_to_x0020_A...,fullerdata.com,United States
+84,http://www.ippages.com/soap/server.php?wsdl,showmyip,ippages.com,United States
+85,http://216.33.67.161/webservices/pingservice.asmx?WSDL,PingService,216.33.67.161,United States
+86,http://gcomputer.net/webservices/dilbert.asmx?WSDL,Dilbert,gcomputer.net,United States
+87,http://www.sarma.co.in/tran/Trans.asmx?wsdl,Trans,sarma.co.in,United States
+88,http://sixteencolors.net/Services/Artists.asmx?WSDL,Artists,sixteencolors.net,United States
+89,http://adamkinney.com/Services/Comments.asmx?WSDL,Comments,adamkinney.com,United States
+90,http://www.axisebusiness.com/adnano/codesamples/captcha/captchaWebService/captchaWebService.asmx?wsdl,captchaWebService,axisebusiness.com,United States
+91,http://www.brendanconrad.com/services/AutoCompleteService.asmx?WSDL,AutoCompleteService,brendanconrad.com,United States
+92,http://cluuz1.cluuz.com/Extract.asmx?WSDL,ExtractWS,cluuz.com,United States
+93,http://www.connectmarkets.com/ws/IpToLocationWS.asmx?wsdl,IpToLocationWS,connectmarkets.com,United States
+94,http://www.dotnetjohn.com/services/guestbook.asmx?wsdl,GuestBook,dotnetjohn.com,United States
+95,http://crop.goofytalk.com/crop.asmx?WSDL,Crop,goofytalk.com,United States
+96,http://www.nhuynhduc.com/tvan/sendmail.php?wsdl,sendmailWSDL,nhuynhduc.com,United States
+97,http://web8.securetss.com/com/clearviewtss/util/HashProvider.cfc?wsdl,HashProviderService,securetss.com,United States
+98,http://www.ecs.syr.edu/faculty/fawcett/handouts/CSE686/code/calcWebService/Calc.asmx?WSDL,Calculator_x0020_Web,syr.edu,United States
+99,http://www.trixbox.org/soapCheckUserReg.php?wsdl,soapCheckUserReg,trixbox.org,United States

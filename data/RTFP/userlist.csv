@@ -1,0 +1,151 @@
+user_id,ip_address,domain,country
+0,12.108.127.136,planet1.pittsburgh.intel-research.net,UNITED STATES
+1,128.10.19.52,planetlab1.cs.purdue.edu,UNITED STATES
+2,128.112.139.80,alice.cs.princeton.edu,UNITED STATES
+3,128.113.226.235,planet1.ecse.rpi.edu,UNITED STATES
+4,128.119.247.210,planetlab1.cs.umass.edu,UNITED STATES
+5,128.135.11.149,planetlab1.cs.uchicago.edu,UNITED STATES
+6,128.138.207.45,planetlab2.cs.colorado.edu,UNITED STATES
+7,128.163.142.20,planetlab1.netlab.uky.edu,UNITED STATES
+8,128.187.223.211,planetlab1.byu.edu,UNITED STATES
+9,128.2.223.63,planetlab-1.cmcl.cs.cmu.edu,UNITED STATES
+10,128.208.4.197,planetlab01.cs.washington.edu,UNITED STATES
+11,128.220.247.28,planetlab1.isi.jhu.edu,UNITED STATES
+12,128.223.8.111,planetlab1.cs.uoregon.edu,UNITED STATES
+13,128.227.56.81,planetlab1.acis.ufl.edu,UNITED STATES
+14,128.233.252.11,planetlab-1.usask.ca,CANADA
+15,128.42.6.143,ricepl-1.cs.rice.edu,UNITED STATES
+16,128.59.20.226,planetlab1.cs.columbia.edu,UNITED STATES
+17,128.83.122.179,planetlab1.csres.utexas.edu,UNITED STATES
+18,128.84.154.49,planetlab1.cs.cornell.edu,UNITED STATES
+19,129.10.120.193,planetlabone.ccs.neu.edu,UNITED STATES
+20,129.105.15.37,planetlab2.eecs.northwestern.edu,UNITED STATES
+21,129.107.35.131,planetlab1.uta.edu,UNITED STATES
+22,129.108.202.10,planetlab1.utep.edu,UNITED STATES
+23,129.12.3.74,planetlab1.kent.ac.uk,EUROPEAN UNION
+24,129.130.252.141,plab4.eece.ksu.edu,UNITED STATES
+25,129.137.253.253,planetlab1.uc.edu,UNITED STATES
+26,129.170.214.192,planetlab2.cs.dartmouth.edu,UNITED STATES
+27,129.237.161.193,kupl1.ittc.ku.edu,UNITED STATES
+28,129.24.211.25,pl1.unm.edu,UNITED STATES
+29,129.59.88.179,planetlab-1.vuse.vanderbilt.edu,UNITED STATES
+30,129.69.210.96,planetvs1.informatik.uni-stuttgart.de,EUROPEAN UNION
+31,129.74.74.15,planetlab1.cse.nd.edu,UNITED STATES
+32,129.93.229.138,planetlab1.unl.edu,UNITED STATES
+33,130.136.254.21,planetlab1.cs.unibo.it,EUROPEAN UNION
+34,130.192.157.131,planetlab1.di.unito.it,EUROPEAN UNION
+35,130.206.158.138,planetlab1.tlm.unavarra.es,EUROPEAN UNION
+36,130.49.221.40,planetlab1.cs.pitt.edu,UNITED STATES
+37,130.73.142.87,planet1.zib.de,EUROPEAN UNION
+38,130.75.87.83,planet1.l3s.uni-hannover.de,EUROPEAN UNION
+39,130.83.166.198,host1.planetlab.informatik.tu-darmstadt.de,EUROPEAN UNION
+40,131.130.32.152,planetlab1.ani.univie.ac.at,EUROPEAN UNION
+41,131.175.17.9,planetlab1.elet.polimi.it,EUROPEAN UNION
+42,131.179.50.70,planetlab1.cs.ucla.edu,UNITED STATES
+43,131.188.44.100,planetlab1.informatik.uni-erlangen.de,EUROPEAN UNION
+44,131.215.45.71,planlab1.cs.caltech.edu,UNITED STATES
+45,131.246.19.201,planetlab1.informatik.uni-kl.de,EUROPEAN UNION
+46,131.246.191.41,planetlab1.itwm.fhg.de,EUROPEAN UNION
+47,131.247.2.241,planetlab1.csee.usf.edu,UNITED STATES
+48,131.254.208.10,peeramide.irisa.fr,EUROPEAN UNION
+49,132.170.3.32,planetlab1.eecs.ucf.edu,UNITED STATES
+50,132.187.230.1,planetlab1.informatik.uni-wuerzburg.de,EUROPEAN UNION
+51,132.227.62.19,planetlab-europe-02.ipv6.lip6.fr,EUROPEAN UNION
+52,132.239.17.224,planetlab1.ucsd.edu,UNITED STATES
+53,132.252.152.193,planetlab1.exp-math.uni-essen.de,EUROPEAN UNION
+54,132.65.240.100,planet1.cs.huji.ac.il,EUROPEAN UNION
+55,133.1.74.162,pub1-s.ane.cmc.osaka-u.ac.jp,JAPAN
+56,133.11.240.56,planetlab1.iii.u-tokyo.ac.jp,JAPAN
+57,133.15.59.2,pl2.planetlab.ics.tut.ac.jp,JAPAN
+58,134.121.64.4,planetlab1.eecs.wsu.edu,UNITED STATES
+59,134.2.172.253,freedom.ri.uni-tuebingen.de,EUROPEAN UNION
+60,134.34.246.5,chronos.disy.inf.uni-konstanz.de,EUROPEAN UNION
+61,136.145.115.194,planetlab-01.ece.uprm.edu,PUERTO RICO
+62,137.165.1.111,planetlab1.williams.edu,UNITED STATES
+63,137.226.138.154,freedom.informatik.rwth-aachen.de,EUROPEAN UNION
+64,137.99.11.86,planetlab1.engr.uconn.edu,UNITED STATES
+65,138.15.10.55,plab1.nec-labs.com,UNITED STATES
+66,138.232.66.194,plab1-c703.uibk.ac.at,EUROPEAN UNION
+67,138.238.250.155,nodea.howard.edu,UNITED STATES
+68,138.246.99.249,planetlab1.lkn.ei.tum.de,EUROPEAN UNION
+69,139.19.142.2,planetlab02.mpi-sws.mpg.de,EUROPEAN UNION
+70,139.91.90.239,planetlab2.ics.forth.gr,EUROPEAN UNION
+71,140.119.164.84,ent1.cs.nccu.edu.tw,TAIWAN PROVINCE OF CHINA
+72,140.192.249.203,planetlab1.mnlab.cti.depaul.edu,UNITED STATES
+73,140.247.60.123,lefthand.eecs.harvard.edu,UNITED STATES
+74,141.161.20.32,planetlab1.georgetown.edu,UNITED STATES
+75,141.20.103.210,planetlab1.wiwi.hu-berlin.de,EUROPEAN UNION
+76,141.213.4.201,planetlab1.eecs.umich.edu,UNITED STATES
+77,141.217.48.50,planetlab1.cs.wayne.edu,UNITED STATES
+78,141.219.252.132,mtuplanetlab1.cs.mtu.edu,UNITED STATES
+79,141.22.213.34,merkur.planetlab.haw-hamburg.de,EUROPEAN UNION
+80,141.24.249.130,planetlab2.fem.tu-ilmenau.de,GERMANY
+81,141.24.33.162,planet2.prakinf.tu-ilmenau.de,GERMANY
+82,141.76.45.17,planet1.inf.tu-dresden.de,EUROPEAN UNION
+83,142.104.21.241,pl3.planetlab.uvic.ca,CANADA
+84,142.150.238.12,pl1.csl.utoronto.ca,CANADA
+85,143.107.111.235,plab2.larc.usp.br,BRAZIL
+86,143.215.129.115,planet2.cc.gt.atl.ga.us,UNITED STATES
+87,143.225.229.236,planetlab01.dis.unina.it,EUROPEAN UNION
+88,143.248.139.54,csplanetlab1.kaist.ac.kr,KOREA REPUBLIC OF
+89,146.57.249.99,planetlab2.dtc.umn.edu,UNITED STATES
+90,147.102.224.228,stella.planetlab.ntua.gr,EUROPEAN UNION
+91,147.229.10.250,planetlab1.fit.vutbr.cz,EUROPEAN UNION
+92,149.169.227.129,planetlab1.eas.asu.edu,UNITED STATES
+93,150.254.212.147,planetlab-1.man.poznan.pl,POLAND
+94,152.81.47.4,host3-plb.loria.fr,EUROPEAN UNION
+95,155.225.2.71,planetlab1.citadel.edu,UNITED STATES
+96,155.246.12.163,planetlab1.cs.stevens-tech.edu,UNITED STATES
+97,156.17.10.51,planetlab1.ci.pwr.wroc.pl,EUROPEAN UNION
+98,158.130.6.254,planetlab1.cis.upenn.edu,UNITED STATES
+99,160.36.57.172,pl1.eecs.utk.edu,UNITED STATES
+100,164.107.127.12,planetlab-1.cse.ohio-state.edu,UNITED STATES
+101,164.73.47.242,planetlab-1.fing.edu.uy,URUGUAY
+102,165.91.83.22,planetlab1.tamu.edu,UNITED STATES
+103,169.237.79.210,planetlab1.ece.ucdavis.edu,UNITED STATES
+104,171.66.3.181,planet1.scs.stanford.edu,UNITED STATES
+105,192.197.121.2,node-1.mcgillplanetlab.org,CANADA
+106,192.33.210.16,lsirextpc01.epfl.ch,EUROPEAN UNION
+107,192.33.90.195,planetlab01.ethz.ch,EUROPEAN UNION
+108,192.33.90.66,planetlab1.inf.ethz.ch,EUROPEAN UNION
+109,192.41.135.218,planetlab1.csg.uzh.ch,EUROPEAN UNION
+110,193.1.170.135,planetlab-node-01.ucd.ie,IRELAND
+111,193.136.191.25,planetlab-1.iscte.pt,PORTUGAL
+112,193.144.21.130,planetlab.urv.net,SPAIN
+113,193.157.115.250,planetlab1.ifi.uio.no,NORWAY
+114,193.167.182.130,pl-1.hip.fi,FINLAND
+115,193.174.155.26,planetlab-1.fokus.fraunhofer.de,GERMANY
+116,193.191.148.227,planck227.test.ibbt.be,BELGIUM
+117,193.54.192.41,pl1.rennes.supelec.fr,FRANCE
+118,193.55.112.40,planetlab1.eurecom.fr,FRANCE
+119,193.6.20.4,planet1.colbud.hu,HUNGARY
+120,193.63.75.18,planetlab-1.imperial.ac.uk,UNITED KINGDOM
+121,194.254.215.11,planetlab1.utt.fr,FRANCE
+122,194.36.10.154,planetlab1.nrl.dcs.qmul.ac.uk,UNITED KINGDOM
+123,194.42.17.123,planetlab-1.cs.ucy.ac.cy,CYPRUS
+124,195.113.161.82,planetlab1.cesnet.cz,CZECH REPUBLIC
+125,195.130.121.204,planetlab1.cs.uoi.gr,GREECE
+126,195.37.16.97,aladdin.planetlab.extranet.uni-passau.de,GERMANY
+127,198.128.56.11,node1.lbnl.nodes.planet-lab.org,UNITED STATES
+128,198.133.224.145,planetlab1.cs.wisc.edu,UNITED STATES
+129,198.133.224.147,planetlab3.wail.wisc.edu,UNITED STATES
+130,198.163.152.229,planetlab1.win.trlabs.ca,CANADA
+131,198.7.242.43,earth.cs.brown.edu,UNITED STATES
+132,198.82.160.221,bob.cc.vt.edu,UNITED STATES
+133,200.132.0.69,planetlab1.pop-rs.rnp.br,BRAZIL
+134,200.133.215.141,planet-lab1.ufabc.edu.br,BRAZIL
+135,203.178.133.10,planetlab0.dojima.wide.ad.jp,JAPAN
+136,203.178.133.2,planetlab0.otemachi.wide.ad.jp,JAPAN
+137,203.178.143.10,planetlab1.sfc.wide.ad.jp,JAPAN
+138,204.8.155.226,planetlab-01.bu.edu,UNITED STATES
+139,206.117.37.4,planetlab1.postel.org,UNITED STATES
+140,206.207.248.34,planetlab1.arizona-gigapop.net,UNITED STATES
+141,208.117.131.115,planetlab-1.cs.uh.edu,UNITED STATES
+142,210.125.84.15,planetlab1.netmedia.gist.ac.kr,KOREA REPUBLIC OF
+143,212.235.189.114,planetlab1.fri.uni-lj.si,SLOVENIA
+144,213.19.160.195,planetlab-2.amst.nodes.planet-lab.org,UNITED KINGDOM
+145,216.165.109.82,planet2.scs.cs.nyu.edu,UNITED STATES
+146,216.98.102.29,planetlabnode-1.docomolabs-usa.com,UNITED STATES
+147,35.9.27.26,planetlab1.cse.msu.edu,UNITED STATES
+148,64.151.112.20,sanfrancisco.planetlab.pch.net,UNITED STATES
+149,72.36.112.71,planetlab1.cs.uiuc.edu,UNITED STATES
